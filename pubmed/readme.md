@@ -1,2 +1,3 @@
 爬取https://www.ncbi.nlm.nih.gov/pubmed/xxxxxxx
 上的部分文章的页面，保存其pmid/abstract/journal...
+FileToDB文件夹是文件转数据库的脚本，使用爬虫时应删去
